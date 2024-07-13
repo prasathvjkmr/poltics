@@ -1,3 +1,15 @@
-h1,h2{
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+} */
+ /* p{
+    all: unset;
+ } */
+
+h1,
+h2,
+h3,
+h4 {
     color: crimson;
 }
